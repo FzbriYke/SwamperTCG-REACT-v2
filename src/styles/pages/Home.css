@@ -1,0 +1,27 @@
+.home-hero {
+  max-width: 1000px;
+  border-radius: 1rem;
+}
+
+.home-video {
+  width: 100%;
+  max-width: 900px;
+  border-radius: 1rem;
+}
+
+.home-carousel {
+  --swiper-pagination-color: #0d6efd;
+  padding: 0.25rem 0.25rem 2.5rem;
+  max-width: calc(4 * var(--card-w) + 3 * 1rem + 0.5rem);
+  margin-inline: auto;
+}
+
+.home-carousel .swiper-slide {
+  width: var(--card-w);
+  height: auto;
+  display: flex;
+}
+
+.home-carousel .swiper-slide > .card {
+  width: 100%;
+}

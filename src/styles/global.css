@@ -1,0 +1,14 @@
+:root {
+  --card-w: 210px;
+}
+
+body {
+  background-color: #f4f6f9;
+}
+
+@media print {
+  nav,
+  footer {
+    display: none !important;
+  }
+}
