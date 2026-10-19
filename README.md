@@ -24,4 +24,4 @@ FABRICIO CANOVA
 ALONSO FUENTES
 
 
-link de Vercel: https://swamper-tcg-react.vercel.app/
+link de Vercel: https://swamper-tcg-react-v2.vercel.app/
